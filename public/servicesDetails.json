@@ -1,40 +1,40 @@
 {"services":[
-    {
-      "key": 1,
-      "name": "General Medicine",
-      "img": "https://www.healtheuropa.eu/wp-content/uploads/2020/04/iStock-1157550311-696x392.jpg",
-      "details": "They treat common medical conditions and perform routine exams. They refer you to other medical services or doctors if you need urgent or specialized treatment.The service provides support to people who are newly prescribed a medicine to manage a long-term condition."
-    },
-    {
-      "key": 2,
-      "name": "Cardiology",
-      "img": "https://www.cdi.org.in/wp-content/uploads/2021/05/Best-Cardiology-Doctor-near-me-Book-Instant-Appointment-min.jpg",
-      "details": "Cardiologists are doctors who diagnose, assess and treat patients with diseases and defects of the heart and blood vessels (the cardiovascular system). This page provides useful information on the nature of the work, the common procedures/interventions, sub-specialties and other roles that may interest you."
-    },
-    {
-      "key": 3,
-      "name": "Neurology",
-      "img": "https://www.scripps.org/sparkle-assets/images/neurology-8962872063590341589.jpg",
-      "details": "Neurologists diagnose, treat and manage disorders that affect the central nervous system (the brain and spinal cord) and the peripheral nervous system (nerves and muscles which activate movement and transmit sensation from all parts of the body to the brain)."
-    },
-    {
-      "key": 4,
-      "name": "Urology",
-      "img": "https://images.medicinenet.com/images/article/main_image/urologist-1.jpg",
-      "details": "Urologists diagnose and treat diseases of the urinary tract in both men and women. They also diagnose and treat anything involving the reproductive tract in men. In some cases, they may perform surgery."
-    },
-    {
-      "key": 5,
-      "name": "Gastroenterology",
-      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzREpBGfd7GlP2qPH1TUBU1GI_tIEbFRFb-_d6ktakTjiQJteyx4fqH3ly6i3AnG3-_84&usqp=CAU",
-      "details": "Gastroenterologists are doctors who investigate, diagnose, treat and prevent all gastrointestinal (stomach and intestines) and hepatological (liver, gallbladder, biliary tree and pancreas) diseases."
-    },
-    {
-      "key": 6,
-      "name": "Surgical oncology",
-      "img": "https://expertchikitsa.com/wp-content/uploads/2020/08/Cancer-Surgery-in-Turkey.jpg",
-      "details": "Surgical oncology is the field of cancer care that focuses on surgery to diagnose, stage and treat cancer, and to manage some cancer-related symptoms."
-    }
+  {
+    "key": "1",
+    "name": "General Medicine",
+    "img": "https://www.healtheuropa.eu/wp-content/uploads/2020/04/iStock-1157550311-696x392.jpg",
+    "details": "They treat common medical conditions and perform routine exams. They refer you to other medical services or doctors if you need urgent or specialized treatment.The service provides support to people who are newly prescribed a medicine to manage a long-term condition."
+  },
+  {
+    "key": "2",
+    "name": "Cardiology",
+    "img": "https://www.cdi.org.in/wp-content/uploads/2021/05/Best-Cardiology-Doctor-near-me-Book-Instant-Appointment-min.jpg",
+    "details": "Cardiologists are doctors who diagnose, assess and treat patients with diseases and defects of the heart and blood vessels (the cardiovascular system). This page provides useful information on the nature of the work, the common procedures/interventions, sub-specialties and other roles that may interest you."
+  },
+  {
+    "key": "3",
+    "name": "Neurology",
+    "img": "https://www.scripps.org/sparkle-assets/images/neurology-8962872063590341589.jpg",
+    "details": "Neurologists diagnose, treat and manage disorders that affect the central nervous system (the brain and spinal cord) and the peripheral nervous system (nerves and muscles which activate movement and transmit sensation from all parts of the body to the brain)."
+  },
+  {
+    "key": "4",
+    "name": "Urology",
+    "img": "https://images.medicinenet.com/images/article/main_image/urologist-1.jpg",
+    "details": "Urologists diagnose and treat diseases of the urinary tract in both men and women. They also diagnose and treat anything involving the reproductive tract in men. In some cases, they may perform surgery."
+  },
+  {
+    "key": "5",
+    "name": "Gastroenterology",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzREpBGfd7GlP2qPH1TUBU1GI_tIEbFRFb-_d6ktakTjiQJteyx4fqH3ly6i3AnG3-_84&usqp=CAU",
+    "details": "Gastroenterologists are doctors who investigate, diagnose, treat and prevent all gastrointestinal (stomach and intestines) and hepatological (liver, gallbladder, biliary tree and pancreas) diseases."
+  },
+  {
+    "key": "6",
+    "name": "Surgical oncology",
+    "img": "https://expertchikitsa.com/wp-content/uploads/2020/08/Cancer-Surgery-in-Turkey.jpg",
+    "details": "Surgical oncology is the field of cancer care that focuses on surgery to diagnose, stage and treat cancer, and to manage some cancer-related symptoms."
+  }
   ]
     
 }

@@ -28,7 +28,7 @@ function App() {
             <Route exact path="/services">
               <Services></Services>
             </Route>
-            <PrivateRoute exact path="/services/:key">
+            <PrivateRoute exact path="/service/:key">
               <SingleService></SingleService>
             </PrivateRoute>
             <Route exact path="/specialists">

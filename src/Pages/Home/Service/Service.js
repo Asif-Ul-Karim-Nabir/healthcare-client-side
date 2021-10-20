@@ -11,7 +11,7 @@ const Service = (props) => {
                 <img src={img} alt="" />
                 <h3>{name}</h3>
                 <p> {details}  </p>
-                <Link to={`/services/${key}`}>
+                <Link to={`/service/${key}`}>
                 <Button variant="outline-primary">Details</Button>{' '}
                 </Link>                    
             </Container>
