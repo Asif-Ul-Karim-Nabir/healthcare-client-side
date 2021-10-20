@@ -2,14 +2,10 @@ body {
   overflow-x: hidden;
 }
 .login-container {
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  background-image: url(../../../images/photo-1551076805-e1869033e561.jfif);
-  background-repeat: no-repeats;
-  height: 100vh;
+  background-color: #add8e6;
 }
-.login-container h2 {
-  margin-top: 20%;
+.login-details {
+  margin-top: 15%;
 }
 .login-feild {
   margin-top: 10%;

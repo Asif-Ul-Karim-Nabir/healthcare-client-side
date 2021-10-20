@@ -2,11 +2,13 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import { BrowserRouter as Router, Switch,Route } from 'react-router-dom';
 import './App.css';
 import AuthProvider from './context/AuthProvider';
+import Footer from './Pages/Home/Footer/Footer';
 import Home from './Pages/Home/Home/Home';
 import Services from './Pages/Home/Services/Services';
 import SingleService from './Pages/Home/SingleService/SingleService';
 import Specialists from './Pages/Home/Specialists/Specialists';
 import Login from './Pages/Login/Login/Login';
+import PrivateRoute from './Pages/Login/PrivateRoute/PrivateRoute';
 import NotFound from './Pages/NotFound/NotFound';
 import Header from './Pages/Shared/Header/Header';
 
@@ -26,9 +28,9 @@ function App() {
             <Route exact path="/services">
               <Services></Services>
             </Route>
-            <Route exact path="/services/:key">
+            <PrivateRoute exact path="/services/:key">
               <SingleService></SingleService>
-            </Route>
+            </PrivateRoute>
             <Route exact path="/specialists">
               <Specialists></Specialists>
             </Route>
@@ -39,6 +41,7 @@ function App() {
               <NotFound></NotFound>
             </Route>
         </Switch>
+        <Footer></Footer>
       </Router>
       </AuthProvider>
     </div>

@@ -1,14 +1,14 @@
 import React from 'react';
-import { Button } from 'react-bootstrap';
+import { Button, Row } from 'react-bootstrap';
 import useAuth from '../../../hooks/useAuth';
 import './Login.css'
 
 const Login = () => {
     const {singInUsingGoogle,error,isLogin,handleNameChange,handleEmailChange,handlePasswordChange,toggleLogin,handleRegistration}= useAuth();
     return (
-        <div>
-            <div className="login-container">
-                <div >
+        <div className="login-container">
+            <Row xs={1} md={2} className="g-4 w-75 mx-auto">
+                <div className="login-details">
                     <h2>Healthy Hospital</h2>
                     <p>You have to create an account to see our details.<br/>So feel free register or login our website to great service.</p>
                 </div>
@@ -50,7 +50,7 @@ const Login = () => {
                             <Button onClick={singInUsingGoogle} variant="primary">Sign In Google</Button>
                     </form>                  
                 </div>
-            </div>
+            </Row>
         </div>
     );
 };

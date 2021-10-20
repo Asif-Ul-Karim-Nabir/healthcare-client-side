@@ -1,0 +1,12 @@
+.footer-container a {
+  text-decoration: none;
+  color: rgb(196, 88, 88);
+  display: block;
+  margin-bottom: 10px;
+}
+.footer-container p {
+  color: rgb(196, 88, 88);
+}
+.footer-container a:hover {
+  color: white;
+}
