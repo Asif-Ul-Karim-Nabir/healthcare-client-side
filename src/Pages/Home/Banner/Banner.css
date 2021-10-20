@@ -1,0 +1,11 @@
+.banner-container img {
+  height: 800px;
+  object-fit: cover;
+}
+
+@media only screen and (max-width: 662px) {
+  .banner-container img {
+    height: 400px;
+    object-fit: cover;
+  }
+}

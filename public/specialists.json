@@ -1,0 +1,38 @@
+[
+    {
+      "key": 1,
+      "name": "Head of Medicine",
+      "img": "https://st.depositphotos.com/1258191/3252/i/950/depositphotos_32524605-stock-photo-portrait-of-a-handsome-doctor.jpg",
+      "details": "They treat common medical conditions and perform routine exams. They refer you to other medical services or doctors if you need urgent or specialized treatment.The service provides support to people who are newly prescribed a medicine to manage a long-term condition."
+    },
+    {
+      "key": 2,
+      "name": "Assistant of Cardiology",
+      "img": "https://t4.ftcdn.net/jpg/02/71/27/05/360_F_271270515_h430bOQYBpPIXZXELDhk5GMjAabEGmAo.jpg",
+      "details": "Cardiologists are doctors who diagnose, assess and treat patients with diseases and defects of the heart and blood vessels (the cardiovascular system). This page provides useful information on the nature of the work, the common procedures/interventions, sub-specialties and other roles that may interest you."
+    },
+    {
+      "key": 3,
+      "name": "Head of Neurology",
+      "img": "https://media.istockphoto.com/photos/closeup-of-confident-mid-adult-male-doctor-picture-id1132432266?k=20&m=1132432266&s=612x612&w=0&h=tolfdCZ6VeTgBQ2cpbxlqEPQWY9n5M3ox1USbujkK20=",
+      "details": "Neurologists diagnose, treat and manage disorders that affect the central nervous system (the brain and spinal cord) and the peripheral nervous system (nerves and muscles which activate movement and transmit sensation from all body to the brain)."
+    },
+    {
+      "key": 4,
+      "name": "Assistant of Urology",
+      "img": "https://i1.wp.com/oohstloustudios.com/wp-content/uploads/2018/06/JoaoFilho-7.jpg?w=386&h=386&crop=1&ssl=1",
+      "details": "Urologists diagnose and treat diseases of the urinary tract in both men and women. They also diagnose and treat anything involving the reproductive tract in men. In some cases, they may perform surgery."
+    },
+    {
+      "key": 5,
+      "name": "Head of Gastroenterology",
+      "img": "https://i.pinimg.com/originals/35/57/55/355755832670880825ad87838e18d6b6.jpg",
+      "details": "Gastroenterologists are doctors who investigate, diagnose, treat and prevent all gastrointestinal (stomach and intestines) and hepatological  diseases."
+    },
+    {
+      "key": 6,
+      "name": "Head of Surgical oncology",
+      "img": "https://st3.depositphotos.com/10654668/13844/i/600/depositphotos_138445604-stock-photo-male-doctor-in-hospital.jpg",
+      "details": "Surgical oncology is the field of cancer care that focuses on surgery to diagnose, stage and treat cancer, and to manage some cancer-related symptoms."
+    }
+  ]
