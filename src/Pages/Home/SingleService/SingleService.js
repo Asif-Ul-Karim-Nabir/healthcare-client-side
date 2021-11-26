@@ -14,8 +14,7 @@ const SingleService = ( ) => {
     },[])
     useEffect(()=>{
         const foundService = servicesDetails.find(services=>services.key === key)
-        setSingleService(foundService)
-        console.log(foundService)      
+        setSingleService(foundService)     
     },[servicesDetails])
 
     return (
